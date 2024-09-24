@@ -70,7 +70,6 @@ Follow the steps below to run the project:
     ```bash
     Copy code
     pip install -r requirements.txt
-    Run the Streamlit app:
 
 3. Run the Streamlit app:
     ```bash
