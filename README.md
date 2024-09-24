@@ -52,9 +52,10 @@ We applied anomaly detection techniques to identify loans that deviate significa
 ### 5. **Model Evaluation**
 
 - **Confusion Matrix**: A visualization of the model's accuracy in classifying loans into different categories (normal, risky, and fraudulent).
+![Confusion Matrix](data/Confusion_Matrix.png)
 - **ROC Curve**: A graphical representation of the model’s performance, showing its true positive rate versus false positive rate across different threshold levels.
 
-![Confusion Matrix](data/Confusion_Matrix.png)
+![ROC Curve Plot](data/ROC_Curve.png)
 
 ## Instructions
 
