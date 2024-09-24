@@ -54,7 +54,7 @@ We applied anomaly detection techniques to identify loans that deviate significa
 - **Confusion Matrix**: A visualization of the model's accuracy in classifying loans into different categories (normal, risky, and fraudulent).
 - **ROC Curve**: A graphical representation of the model’s performance, showing its true positive rate versus false positive rate across different threshold levels.
 
-![Confusion Matrix](data/Confusion_Matrix.png)
+![Confusion Matrix](data/Confusion Matrix.png)
 
 ## Instructions
 
@@ -80,9 +80,6 @@ Follow the steps below to run the project:
 
 
 ### Conclusion: The Power of Cybersecurity and Data Science in Financial Crime Detection
-
-```markdown
-## Conclusion
 
 The intersection of **cybersecurity** and **data science** is increasingly becoming critical to financial institutions, particularly in addressing the growing threats of **financial crimes**. Fraudulent activities, such as money laundering, insider trading, and loan fraud, require complex detection systems that can quickly adapt to new types of threats.
 
