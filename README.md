@@ -6,7 +6,7 @@ This project leverages **machine learning** to detect **fraudulent loan applicat
 
 ### Key Responsibilities Highlighted in This Project
 
-This project demonstrates several key skills and responsibilities that align with the requirements for the analyst role at Deloitte, including:
+This project demonstrates several key skills and responsibilities that align with the requirements for the analyst role, including:
 
 - **Model Analysis**: Detailed analysis of important features such as loan amount, interest rate, debt-to-income ratio, and annual income using boxplots and scatterplots.
 - **Data Visualization**: Development of advanced data visualizations such as correlation heatmaps and feature importance charts to better understand the model's performance.
